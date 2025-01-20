@@ -4,23 +4,29 @@ Three specialized language models for different professional tasks, optimized fo
 
 ## Repository Structure
 
-├── codingHelper/
-│ ├── DeepSeek-R1-Distill-Qwen-7B/ # Coding assistant model
-│ ├── codingHelper.py # Main script
-│ ├── codingHelper.txt # Prompt template
-│ └── codingHelper.yaml # Configuration
-├── lectureNotes/
-│ ├── DeepSeek-R1-Distill-Qwen-1.5B/ # Summarization model
-│ ├── lectureNotes.py # Main script
-│ ├── lectureNotes.txt # Prompt template
-│ └── lectureNotes.yaml # Configuration
-├── resumeBuilder/
-│ ├── DeepSeek-R1-Distill-Qwen-7B/ # Resume builder model
-│ ├── resumeBuilder.py # Main script
-│ ├── resumeBuilder.txt # Prompt template
-│ └── resumeBuilder.yaml # Configuration
-├── .gitignore
-└── README.md
+codingHelper/
+
+    DeepSeek-R1-Distill-Qwen-7B/     # Coding assistant model
+    codingHelper.py     # Main script
+    codingHelper.txt     # Prompt template
+    codingHelper.yaml     # Configuration
+
+lectureNotes/
+
+    DeepSeek-R1-Distill-Qwen-1.5B/     # Summarization model
+    lectureNotes.py     # Main script
+    lectureNotes.txt     # Prompt template
+    lectureNotes.yaml     # Configuration
+
+resumeBuilder/
+
+    DeepSeek-R1-Distill-Qwen-7B/     # Resume builder model
+    resumeBuilder.py     # Main script
+    resumeBuilder.txt     # Prompt template
+    resumeBuilder.yaml     # Configuration
+
+.gitignore
+README.md
 
 
 ## Model Selection Rationale
