@@ -1,0 +1,17 @@
+# Ignore model directories
+codingHelper/DeepSeek-R1-Distill-Qwen-7B/
+lectureNotes/DeepSeek-R1-Distill-Qwen-1.5B/
+resumeBuilder/DeepSeek-R1-Distill-Qwen-7B/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore model binaries
+*.safetensors
+*.bin
+*.h5
