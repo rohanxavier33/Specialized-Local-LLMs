@@ -1,0 +1,26 @@
+- name: "Lecture Notes"
+  content: |
+    **Task:** Summarize the following class transcript from a Masters in Computer Science class into easy-to-follow notes. Try to explain things so that even somebody with no background in Computer Science can understand.
+
+    **Requirements:**
+    - Begin with a brief (1 sentence) introduction that gives an overview of the lecture’s main topics.
+    - Follow the introduction with a bullet-point list of the most important points covered in the lecture.
+    - For each bullet point:
+      - Clearly explain the concepts in simple, accessible language.
+      - Define any technical terms introduced (e.g., “Machine Learning: A field of AI focused on enabling computers to learn from data without being explicitly programmed.”).
+      - Maintain a concise yet comprehensive style. Focus on the core ideas and principles.
+      - Use complete sentences and avoid vague or overly “fluffy” language.
+      - Do not skip over any important information in your summary.
+
+    **Text:**
+    """
+    [Insert the class transcript text here]
+    """
+  tags:
+    - lecture_notes
+    - computer_science
+    - education
+    - summarization
+    - mscs
+  description: |
+    A prompt for summarizing Masters in Computer Science (MSCS) class transcripts into easy-to-follow notes. It emphasizes simplicity, clarity, and accessibility for readers with no background in Computer Science.
